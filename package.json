@@ -1,0 +1,25 @@
+{
+  "name": "jsdoctest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/interdigitize/JSdocTEST.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/interdigitize/JSdocTEST/issues"
+  },
+  "homepage": "https://github.com/interdigitize/JSdocTEST#readme",
+  "devDependencies": {
+    "jsdoc": "^3.5.4"
+  },
+  "dependencies": {
+    "jsdoc-to-markdown": "^3.0.0"
+  }
+}
